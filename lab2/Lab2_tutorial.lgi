@@ -1,0 +1,32 @@
+41 2 0
+38 1
+8 137 240 186 191 1 0
+7 251 240 300 191 2 1
+22 9 24 221 4 0 \NUL
+Shridhik John shjohn@ucsc.edu
+22 9 44 150 24 0 \NUL
+Lab 2 Lab_tutorial.lgi
+22 9 63 113 43 0 \NUL
+January-3-2018
+22 9 82 200 62 0 \NUL
+01D Section  Carlos Ramirez
+22 141 198 189 178 0 \NUL
+input 1
+22 250 201 306 181 0 \NUL
+output 1
+1 183 215 252 215
+39 16777215
+47 0
+40 1 6 6
+50 800 600
+51 0 100
+30
+System
+16
+700
+0
+0
+0
+0
+0
+34
